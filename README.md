@@ -51,7 +51,8 @@ Pour une vision approfondie de l'architecture, consultez le fichier [`ARCHITECTU
 ### 1️⃣ Cloner et Préparer l'Environnement
 
 ```bash
-git clone https://github.com/votre_profil/synapse-studio.git
+git clone https://github.com/zakariakassemi2000/Agentic-Swarm_multi-agent
+
 cd synapse-studio
 python -m venv venv
 .\venv\Scripts\activate  # Windows
