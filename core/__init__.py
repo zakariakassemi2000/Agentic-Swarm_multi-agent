@@ -1,0 +1,1 @@
+# Synapse Studio – core package
